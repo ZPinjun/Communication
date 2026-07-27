@@ -18,5 +18,12 @@ If you use this code, or any modified part of it, in your work, please cite the 
 
 ---
 
+### Note
+To run this matlab project, you still need: 
+- Three additional data files, whihc can be downloaded at [Data](https://drive.google.com/drive/folders/1LGK27_ryOMcynHy7RA47cu6uVzeyjhFy?usp=share_link)
+- The manopt toolbox, which is available at [manopt](https://www.manopt.org)
+
+---
+
 ### Contact
 - Pinjun Zheng: [pinjun.zheng@ubc.ca](mailto:pinjun.zheng@ubc.ca); [pinjun.zheng@alumni.kaust.edu.sa](mailto:pinjun.zheng@alumni.kaust.edu.sa)
